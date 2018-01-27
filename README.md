@@ -1,6 +1,7 @@
 <a href="https://rpcx.site/"><img height="160" src="http://rpcx.site/logos/rpcx-logo-text.png"></a>
 
 Official site: [http://rpcx.site](http://rpcx.site/)<br/>
+##Go RPC 开发指南
 中文手册: [https://smallnest.gitbooks.io/go-rpc-programming-guide/content/](https://smallnest.gitbooks.io/go-rpc-programming-guide/content/)
 
 
